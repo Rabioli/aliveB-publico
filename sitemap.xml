@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>/productos/facial/</loc>
-    <lastmod>2022-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/services/especifica/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
@@ -35,6 +30,11 @@
   <url>
     <loc>/equipo/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/productos/facial/</loc>
+    <lastmod>2022-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
