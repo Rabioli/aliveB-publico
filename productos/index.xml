@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productos on Alive Bienestar</title>
+    <link>/productos/</link>
+    <description>Recent content in Productos on Alive Bienestar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Fri, 18 Nov 2022 12:33:46 +1000</lastBuildDate><atom:link href="/productos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alcaplus</title>
+      <link>/productos/alcaplus/</link>
+      <pubDate>Fri, 18 Nov 2022 12:33:46 +1000</pubDate>
+      
+      <guid>/productos/alcaplus/</guid>
+      <description>NASO-OROFARINGEO
+Aplicación oral y nasal, por medio de atomizaciones. Auxiliar en la creación de un ambiente que previene el desarrollo de virus.
+  100 % natural e inocuo.
+  La garganta, boca y fosas nasales son focos de infección en nuestro organismo, ALCAPLUS gracias a su composición apoya a nuestro organismo inactivando los virus y así ayudando a prevenir contagios.
+  Es importante la constancia en el uso, sobre todo en situaciones de mayor riesgo de contagio.</description>
+    </item>
+    
+    <item>
+      <title>Bioforce</title>
+      <link>/productos/bioforce/</link>
+      <pubDate>Fri, 18 Nov 2022 12:33:46 +1000</pubDate>
+      
+      <guid>/productos/bioforce/</guid>
+      <description>Aditivo antioxidante, a base de agua electrolizada. Generador de reactivación celular.
+BIOFORCE es un producto que en términos generales tiene la capacidad de llegar a cada una de nuestras células, llevando consigo elementos moleculares nutritivos que toda célula requiere para funcionar y facilita su asimilación. A su vez ya estando dentro de las células atrae todos los desechos de las células, llevandolos al torrente sanguíneo y de ahí a los órganos que se encargan de su metabolización y expulsión del cuerpo humano (riñones, hígado, glándulas, etc).</description>
+    </item>
+    
+    <item>
+      <title>Bioforce</title>
+      <link>/productos/facial/</link>
+      <pubDate>Fri, 18 Nov 2022 12:33:46 +1000</pubDate>
+      
+      <guid>/productos/facial/</guid>
+      <description>En conjunto el paso uno y dos de DUO Balance facial, tonifica, hidrata, limpia, suaviza y protege la delicada piel del rostro. Nuestra piel es el órgano más grande del organismo, es delicada y tiene una gran capacidad de absorción, por esa razón se daña y debilita con químicos y productos con los que tratamos de protegerla. DUO Balance facial es agua modificada con variaciones de pH resultando muy natural y efectivo para su cuidado.</description>
+    </item>
+    
+  </channel>
+</rss>

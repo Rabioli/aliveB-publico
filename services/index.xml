@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alive Bienestar</title>
-    <link>/</link>
-    <description>Recent content on Alive Bienestar</description>
+    <title>Cualidades del producto on Alive Bienestar</title>
+    <link>/services/</link>
+    <description>Recent content in Cualidades del producto on Alive Bienestar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Fri, 18 Nov 2022 12:33:46 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alcaplus</title>
-      <link>/productos/alcaplus/</link>
-      <pubDate>Fri, 18 Nov 2022 12:33:46 +1000</pubDate>
-      
-      <guid>/productos/alcaplus/</guid>
-      <description>NASO-OROFARINGEO
-Aplicación oral y nasal, por medio de atomizaciones. Auxiliar en la creación de un ambiente que previene el desarrollo de virus.
-  100 % natural e inocuo.
-  La garganta, boca y fosas nasales son focos de infección en nuestro organismo, ALCAPLUS gracias a su composición apoya a nuestro organismo inactivando los virus y así ayudando a prevenir contagios.
-  Es importante la constancia en el uso, sobre todo en situaciones de mayor riesgo de contagio.</description>
-    </item>
-    
-    <item>
-      <title>Peter Van Eijk</title>
-      <link>/equipo/peter-van-eijk/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/equipo/peter-van-eijk/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Descripción general de la acción de BIOFORCE®</title>
       <link>/services/general/</link>
@@ -37,25 +14,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       
       <guid>/services/general/</guid>
       <description>BIOFORCE® es un producto que en términos generales y sencillos tiene la capacidad de llegar a cada una de nuestras células debido a su forma micelar de 6 moléculas de agua, que es reconocido por las membranas celulares como la mejor forma de hidratación sin existir reacción de oposición de las mismas a los 24 electrones de estas 6 moléculas del paquete molecular de BIOFORCE®, así no solamente lleva los 24 electrones, también trabaja llevando consigo elementos moleculares nutritivos que toda célula requiere para funcionar, a su vez ya estando dentro de la células humanas atrae (atracción generada por sus fuertes polos eléctricos) todos los elementos residuales y de desecho metabólico de dichas células, los cuales son llevadas al torrente sanguíneo y de ahí a los órganos que se encargan de su metabolización y expulsión del cuerpo humano (riñones, hígado, glándulas, etc.</description>
-    </item>
-    
-    <item>
-      <title>Bioforce</title>
-      <link>/productos/bioforce/</link>
-      <pubDate>Fri, 18 Nov 2022 12:33:46 +1000</pubDate>
-      
-      <guid>/productos/bioforce/</guid>
-      <description>Aditivo antioxidante, a base de agua electrolizada. Generador de reactivación celular.
-BIOFORCE es un producto que en términos generales tiene la capacidad de llegar a cada una de nuestras células, llevando consigo elementos moleculares nutritivos que toda célula requiere para funcionar y facilita su asimilación. A su vez ya estando dentro de las células atrae todos los desechos de las células, llevandolos al torrente sanguíneo y de ahí a los órganos que se encargan de su metabolización y expulsión del cuerpo humano (riñones, hígado, glándulas, etc).</description>
-    </item>
-    
-    <item>
-      <title>Bioforce</title>
-      <link>/productos/facial/</link>
-      <pubDate>Fri, 18 Nov 2022 12:33:46 +1000</pubDate>
-      
-      <guid>/productos/facial/</guid>
-      <description>En conjunto el paso uno y dos de DUO Balance facial, tonifica, hidrata, limpia, suaviza y protege la delicada piel del rostro. Nuestra piel es el órgano más grande del organismo, es delicada y tiene una gran capacidad de absorción, por esa razón se daña y debilita con químicos y productos con los que tratamos de protegerla. DUO Balance facial es agua modificada con variaciones de pH resultando muy natural y efectivo para su cuidado.</description>
     </item>
     
     <item>
@@ -68,48 +26,12 @@ BIOFORCE es un producto que en términos generales tiene la capacidad de llegar 
     </item>
     
     <item>
-      <title>Sage Kirk</title>
-      <link>/equipo/sage-kirk/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/equipo/sage-kirk/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    
-    <item>
-      <title>Mike Vance</title>
-      <link>/equipo/mike-vance/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
-      
-      <guid>/equipo/mike-vance/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    
-    <item>
-      <title>Robert Johnson</title>
-      <link>/equipo/robert-johnson/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
-      
-      <guid>/equipo/robert-johnson/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    
-    <item>
       <title>Respuesta o resistencias del organismo humano a BIOFORCE®</title>
       <link>/services/organismo-respuesta/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
       <guid>/services/organismo-respuesta/</guid>
       <description>BIOFORCE® al ingerirse no presenta respuesta fisiológica alguna del organismo humano, ni reactiva, ni alérgica, ni rechazo, no se crean resistencias, ni anticuerpos, ya que es reconocido como agua, la más hidratante por cada una de las células de este; ningún órgano o sistema del cuerpo humano incide en BIOFORCE® para su metabolización y eliminación. BIOFORCE® interactúa con sustancias (átomos y moléculas), señales y cargas eléctricas y también magnéticas presentes en el cuerpo humano con las cuales reacciona promoviendo equilibrios, balances y homeostasis.</description>
-    </item>
-    
-    <item>
-      <title>Tamara Ells</title>
-      <link>/equipo/tamara-ells/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
-      
-      <guid>/equipo/tamara-ells/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
     
     <item>
@@ -120,15 +42,6 @@ BIOFORCE es un producto que en términos generales tiene la capacidad de llegar 
       <guid>/services/organismo-beneficio/</guid>
       <description>Se enlista algunos de los beneficios de ingerir BIOFORCE® ya descritos y documentados en diversos estudios y se menciona brevemente la farmacodinámica del beneficio:
  Poderoso antioxidante: Sede electrones a las moléculas oxidativas y oxidadas quitándoles esta propiedad así evita los daños celulares potenciales que causan estas. Equilibra cargas eléctricas moleculares restableciendo salud: Cediendo los electrones necesarios y requeridos por los múltiples procesos bioquímicos del organismo humano y que son muy necesarios para estas reacciones se lleven a cabo óptimamente.</description>
-    </item>
-    
-    <item>
-      <title>Susan Shelton</title>
-      <link>/equipo/susan-shelton/</link>
-      <pubDate>Thu, 20 Dec 2018 13:45:06 +1000</pubDate>
-      
-      <guid>/equipo/susan-shelton/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
     
     <item>
@@ -159,27 +72,6 @@ BIOFORCE es un producto que en términos generales tiene la capacidad de llegar 
       <guid>/services/caducidad/</guid>
       <description>• En los estudios de estabilidad se ha demostrado que BIOFORCE® mantiene en su envase primario cerrado (botella PET ámbar) todas sus características y propiedades físico – químicas, garantizando así la seguridad y eficacia de este por 12 meses, un año, siempre y cuando se conserve o preserve como se indica previamente.
 • También se ha generado el conocimiento científico en dichos estudios que incluso un botella abierta, consumido alguna parcialidad del mismo y vuelta a cerrar firmemente, así también cuidando en todo momento conservarlo como se indica en el apartado anterior, de igual forma se mantienen todas las características de calidad, eficacia y seguridad por 12 meses, NO obstante NO recomendados almacenar ni consumir después de periodos largos, botellas ya en uso de BIOFORCE®, recomendamos su uso y consumo de acuerdo a lo recomendado en este documento.</description>
-    </item>
-    
-    <item>
-      <title>Compañia</title>
-      <link>/compa%C3%B1ia/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/compa%C3%B1ia/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
-      <title>Contacto</title>
-      <link>/contacto/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/contacto/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-   Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Sunday Closed    </description>
     </item>
     
   </channel>
